@@ -15,7 +15,7 @@
   4. Follow onscreen installation instructions for the the famous 5-minute install!
 
 ### What is MAMP?
-[](http://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2015/04/09.png)
+![](http://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2015/04/09.png)
   MAMP stands for Macintosh, Apache, MySQL and PHP. Basically, it is a free application you can install on your Mac laptop or desktop computer that gives you access to a local Apache server. MAMP allows you to build and test WordPress sites offline, entirely on your own computer.
 
 
