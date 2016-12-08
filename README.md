@@ -1,6 +1,7 @@
 # Wordpress-Tutorial
 ## Introduction to Wordpress
-  WordPress is an online, open source website creation tool written in PHP. But in non-geek speak, it's probably the easiest and most       powerful blogging and website content management system (or CMS) in existence today.
+  WordPress is an online, open source, website creation tool. It is written in PHP. But in non-geek speak, it's probably the easiest and most powerful blogging and website content management system (or CMS) in existence today.
+
 ###What Is WordPress?
 
   * Personal publishing system built on PHP and MySQL
@@ -12,7 +13,6 @@
   * User-friendly
 
 ![](http://i.giphy.com/fAjPCZNOtmTLy.gif)
-
 
 
 ## Installing Wordpress
@@ -38,17 +38,7 @@
   * Go to the website for the plugin... in our case it was [JetPack](https://jetpack.com/support/installing-jetpack)
   * Go to your [Dashboard] (localhost:888/wordpress/wp-admin)
   * Click on [Plugins | Add New | Install Now](http://localhost:8888/wordpress/wp-admin/plugin-install.php) ... and Voila! you're ready to go!
-
-
-
-
-
-
-
-
-
-
-Jetpack is an example of a plugin that helps the speed of your site, you can view your stats, and protect yourself from hackers!
+* Jetpack is an example of a plugin that helps the speed of your site, you can view your stats, and protect yourself from hackers!
 
 # Child Theme
 
