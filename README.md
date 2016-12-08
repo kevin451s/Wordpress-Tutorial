@@ -1,13 +1,21 @@
 # Wordpress-Tutorial
 ## Introduction to Wordpress
   WordPress is an online, open source website creation tool written in PHP. But in non-geek speak, it's probably the easiest and most       powerful blogging and website content management system (or CMS) in existence today.
-  
-  
+
+
   ![](http://i.giphy.com/fAjPCZNOtmTLy.gif)
 
 
 
+## Installing Wordpress
+  To install WordPress:
+  1. Visit the [WordPress](https://wordpress.org) website and click on download wordpress.
+  2. Set up a database for your WordPress. You can buy server space from some of their local partners called Dreamhost or Siteground. We decided to use MAMP as it is free.
+  3. Open the read.me inside wordpress.zip
+  4. Follow onscreen installation instructions for the the famous 5-minute install!
 
+### What is MAMP?
+  MAMP stands for Macintosh, Apache, MySQL and PHP. Basically, it is a free application you can install on your Mac laptop or desktop computer that gives you access to a local Apache server. MAMP allows you to build and test WordPress sites offline, entirely on your own computer.
 
 
 
