@@ -16,9 +16,12 @@
 
 
 ## Installing Wordpress
+
 ![](https://s0.wordpress.com/mshots/v1/https%3A%2F%2Fwordpress.org%2Fplugins%2Fdownload-manager%2F?w=600&h=450)
+
   To install WordPress:
   1. Visit the [WordPress](https://wordpress.org) website and click on download wordpress.
+
   ![](http://www.wpexplorer.com/wp-content/uploads/2011/05/web-hosting-wordpress-theme.jpg)
   2. Set up a database for your WordPress. You can buy server space from some of their local partners called Dreamhost or Siteground. We decided to use MAMP as it is free.
   3. Open the read.me inside wordpress.zip
