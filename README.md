@@ -11,7 +11,8 @@
 ###Why Use WordPress?
   * Comes with a bunch of pre-loaded features
   * User-friendly
-  ## Difference Between WordPress.com and WordPress.org
+
+## Difference Between WordPress.com and WordPress.org
 
   The major difference between WordPress.com and WordPress.org is who's actually hosting your website. With WordPress.org, YOU host your own blog or website. WordPress.org is where you'll find the free WordPress software that you can download and install on your own web server. If you use WordPress.com you are provided with the WordPress software as a service which is ready to use.
 
@@ -19,25 +20,11 @@
 
   Most businesses and individuals use WordPress.org, which allows for plugins. :slightly_smiling_face: we like plugins! — Plugins are a way to add functionality that already exists in WordPress. (We'll get more in depth with plugins in a bit!)
 
-
-
-##Themes and Child Themes
-
-![](http://i.giphy.com/l0Hlx6jKwLPAd4PAc.gif)
-
-Part of why people love and hate WordPress is the Themes. Themes make styling your website a breeze! You basically don't have to code!(That's no fun!) But a lot of people complain that all WordPress sites look the same. You can however take styling into your own hands by modifying the default theme style.
-
-"The biggest disadvantage is that any modifications made to the theme in this way will be lost once the theme is updated by the developer. As a consequence, users either won’t be able to keep their theme up to date (which is bad for security) or will find all of their customizations gone when they do."
-
-The best way to get around this is to use a child theme. This allows you to make any number of changes to your website's styling without touching any of the original theme files.
-
-
-
 ## Installing Wordpress
 
 ![](https://s0.wordpress.com/mshots/v1/https%3A%2F%2Fwordpress.org%2Fplugins%2Fdownload-manager%2F?w=600&h=450)
 
-  To install WordPress:
+####To install WordPress:
   1. Visit the [WordPress](https://wordpress.org) website and click on download wordpress.
 
   ![](http://www.wpexplorer.com/wp-content/uploads/2011/05/web-hosting-wordpress-theme.jpg)
@@ -49,6 +36,16 @@ The best way to get around this is to use a child theme. This allows you to make
 ![](http://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2015/04/09.png)
   MAMP stands for Macintosh, Apache, MySQL and PHP. Basically, it is a free application you can install on your Mac laptop or desktop computer that gives you access to a local Apache server. MAMP allows you to build and test WordPress sites offline, entirely on your own computer.
 
+##Themes and Child Themes
+
+  ![](http://i.giphy.com/l0Hlx6jKwLPAd4PAc.gif)
+
+  Part of why people love and hate WordPress is the Themes. Themes make styling your website a breeze! You basically don't have to code!(That's no fun!) But a lot of people complain that all WordPress sites look the same. You can however take styling into your own hands by modifying the default theme style.
+
+  "The biggest disadvantage is that any modifications made to the theme in this way will be lost once the theme is updated by the developer. As a consequence, users either won’t be able to keep their theme up to date (which is bad for security) or will find all of their customizations gone when they do."
+
+  The best way to get around this is to use a child theme. This allows you to make any number of changes to your website's styling without touching any of the original theme files.
+
 ## How To Install Plugins
   * Plugins ONLY available with Wordpress.org (not Wordpress.com)
   * To find a plugin, do a search for 'Wordpress Plugins
@@ -57,13 +54,9 @@ The best way to get around this is to use a child theme. This allows you to make
   * Go to your [Dashboard] (localhost:888/wordpress/wp-admin)
   * Click on [Plugins | Add New | Install Now](http://localhost:8888/wordpress/wp-admin/plugin-install.php) ... and Voila! you're ready to go!
 
-
-
 #PHP ?!?
 
   ![](http://i.giphy.com/fAjPCZNOtmTLy.gif)
-
-
 
   ![](assets/Screen Shot 2016-12-08 at 11.49.55 AM.png)
 
