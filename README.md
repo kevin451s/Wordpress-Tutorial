@@ -1,9 +1,16 @@
 # Wordpress-Tutorial
 ## Introduction to Wordpress
   WordPress is an online, open source website creation tool written in PHP. But in non-geek speak, it's probably the easiest and most       powerful blogging and website content management system (or CMS) in existence today.
+###What Is WordPress?
 
+  * Personal publishing system built on PHP and MySQL
+  * Started in 2001
+  * Focuses on ease of use and speed for a great user experience
 
-  ![](http://i.giphy.com/fAjPCZNOtmTLy.gif)
+###Why Use WordPress?
+  * Comes with a bunch of pre-loaded features
+
+![](http://i.giphy.com/fAjPCZNOtmTLy.gif)
 
 
 
@@ -18,7 +25,13 @@
 ![](http://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2015/04/09.png)
   MAMP stands for Macintosh, Apache, MySQL and PHP. Basically, it is a free application you can install on your Mac laptop or desktop computer that gives you access to a local Apache server. MAMP allows you to build and test WordPress sites offline, entirely on your own computer.
 
-
+## How To Install Plugins
+  * Plugins ONLY available with Wordpress.org (not Wordpress.com)
+  * To find a plugin, do a search for 'Wordpress Plugins
+  * The site we used is [Plugins](https://wordpress.org/plugins)
+  * Go to the website for the plugin... in our case it was [JetPack](https://jetpack.com/support/installing-jetpack)
+  * Go to your [Dashboard] (localhost:888/wordpress/wp-admin)
+  * Click on [Plugins | Add New | Install Now](http://localhost:8888/wordpress/wp-admin/plugin-install.php) ... and Voila! you're ready to go!
 
 
 
