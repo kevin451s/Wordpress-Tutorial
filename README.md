@@ -29,7 +29,7 @@
 
 ![](https://s0.wordpress.com/mshots/v1/https%3A%2F%2Fwordpress.org%2Fplugins%2Fdownload-manager%2F?w=600&h=450)
 
-####To install WordPress:
+####To Install WordPress:
   1. Visit the [WordPress](https://wordpress.org) website and click on download wordpress.
 
   ![](http://www.wpexplorer.com/wp-content/uploads/2011/05/web-hosting-wordpress-theme.jpg)
@@ -61,21 +61,6 @@
 
 * Jetpack is an example of a plugin that helps the speed of your site, you can view your stats, and protect yourself from hackers!
 
-# Child Theme
-
-Customizing WordPress: You Might Be Doing It Wrong Link
-When trying to make changes to a website, a staggering number of people opt to edit their theme directly. This means they are changing or adding files in their current theme’s folder. This creates a number of problems.
-
-The biggest disadvantage is that any modifications made to the theme in this way will be lost once the theme is updated by the developer. As a consequence, users either won’t be able to keep their theme up to date (which is bad for security) or will find all of their customizations gone when they do.
-Either way, the situation is far from an ideal.
-A much better idea is to use a child theme. This allows you to make any number of changes to a website without touching any of the original theme files.
-When talking about child themes, we first have to talk about parent themes. A theme only becomes a parent theme when someone builds a child theme for it. Until then, it is just a theme, such as the ones you find in the WordPress directory. Every theme that includes all of the files required in order to be considered complete can be a parent theme.
-he big difference is that a child theme depends completely on its parent in order to work. Without its parent theme present, it will not do a thing and cannot even be activated.
-That’s because a child theme isn’t a standalone entity, but instead modifies or adds to the files of an existing theme. It uses everything present in the parent theme and changes only those parts that you want to be different.
-This allows you to alter styles, functions, layout, templates and more. In fact, you can customize the parent theme beyond recognition. However, without it being present, none of it will work.
-
-=======
-
 #PHP ?!?
 
   ![](http://i.giphy.com/fAjPCZNOtmTLy.gif)
@@ -90,11 +75,10 @@ This allows you to alter styles, functions, layout, templates and more. In fact,
 
   ![](assets/Screen Shot 2016-12-08 at 11.48.57 AM.png)
 
-
   An example of the differences is how you concatenate in PHP:
 
   ![](assets/Screen Shot 2016-12-08 at 3.05.19 PM.png)
->>>>>>> e76a7cbb3694dff784e3afbdfd8f9c7d5c04d3fc
+
 
   The concatenation operator is just a dot (.).  Coming to PHP from JavaScript, the dot does the same thing for strings that + does in JavaScript.
 
