@@ -9,7 +9,7 @@
 
 ###Why Use WordPress?
   * Comes with a bunch of pre-loaded features
-  * Already done for you.
+  * User-friendly
 
 ![](http://i.giphy.com/fAjPCZNOtmTLy.gif)
 
