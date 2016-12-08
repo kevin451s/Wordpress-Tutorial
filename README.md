@@ -20,7 +20,6 @@
   Most businesses and individuals use WordPress.org, which allows for plugins. :slightly_smiling_face: we like plugins! — Plugins are a way to add functionality that already exists in WordPress. (We'll get more in depth with plugins in a bit!)
 
 
-![](http://i.giphy.com/fAjPCZNOtmTLy.gif)
 
 ##Themes and Child Themes
 
