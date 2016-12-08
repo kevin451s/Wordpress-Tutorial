@@ -9,12 +9,14 @@
 
 ###Why Use WordPress?
   * Comes with a bunch of pre-loaded features
+  * Already done for you.
 
 ![](http://i.giphy.com/fAjPCZNOtmTLy.gif)
 
 
 
 ## Installing Wordpress
+![](https://s0.wordpress.com/mshots/v1/https%3A%2F%2Fwordpress.org%2Fplugins%2Fdownload-manager%2F?w=600&h=450)
   To install WordPress:
   1. Visit the [WordPress](https://wordpress.org) website and click on download wordpress.
   2. Set up a database for your WordPress. You can buy server space from some of their local partners called Dreamhost or Siteground. We decided to use MAMP as it is free.
