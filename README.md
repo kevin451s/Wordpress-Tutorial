@@ -3,7 +3,7 @@
   WordPress is an online, open source website creation tool written in PHP. But in non-geek speak, it's probably the easiest and most       powerful blogging and website content management system (or CMS) in existence today.
   
   
-  ![](http://giphy.com/gifs/ineedthisforreactions-what-is-this-i-cant-even-gif-fAjPCZNOtmTLy)
+  ![]('http://giphy.com/gifs/ineedthisforreactions-what-is-this-i-cant-even-gif-fAjPCZNOtmTLy')
 
 
 
